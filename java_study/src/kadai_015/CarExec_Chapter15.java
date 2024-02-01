@@ -7,5 +7,8 @@ public class CarExec_Chapter15 {
 		
 		carinfo.gearChange(3);
 		carinfo.run();
+		
+		carinfo.gearChange(2);
+		carinfo.run();
 	}
 }
